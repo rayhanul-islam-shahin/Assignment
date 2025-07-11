@@ -1,0 +1,60 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Font style */
+.inter-font {
+  font-family: "Inter";
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+/* Button Style */
+.btn {
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    transition: transform .3s;
+}
+.btn:hover{
+    background-color: yellowgreen;
+    transform: scale(1.1);
+    color: white;
+}
+
+
+/* Header style */
+header {
+    background-image: url(Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-around;
+    padding:20px 0;  
+}
+
+p.logo{
+    color: #4E47FF;
+    font-size: 34px;
+}
+.banner{
+    margin-top: 100px;
+}
+.banner h1{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-2{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 15px;
+}
