@@ -240,4 +240,40 @@ button.input-btn {
     margin-top: 8px;
 }
 
-/* INPUT FORM SECTION ***START***/
+/* INPUT FORM SECTION ***END***/
+
+/* FOOTER SECTION ***START***/
+
+footer{
+    text-align: center;
+    padding: 50px 0;
+    background-color: white;
+
+}
+footer h1{
+    color: #4E47FF;
+    font-weight: 800;
+    font-size: 50px;
+    padding-bottom: 15px;
+
+}
+footer p{
+    padding-bottom: 5px;
+}
+footer p, li{
+    color: #8987A1;
+    font-size: 10px;
+    
+}
+
+footer ul{
+    display: flex;
+    justify-content: center;
+    gap:30px
+}
+
+footer ul li{
+    list-style: none;
+    margin-top:15px;
+}
+/* FOOTER SECTION ***END***/
