@@ -87,7 +87,7 @@ p.logo{
 .action-section .btn-3{
     font-size: 12px;
     padding: 5px 15px;
-    margin-top: 13px;
+    margin-top: 65px;
 }
 
 .action-section img{
@@ -139,6 +139,7 @@ p.logo{
     display: flex;
     justify-content: center;
     gap: 50px;
+    margin-bottom: 80px;
 }
 .user-review h2{
     text-align: center;
@@ -204,7 +205,7 @@ p.logo{
   /* INPUT FORM SECTION ***START***/
  .input-form {
     width: 70%;
-    margin:50px auto;
+    margin: 80px auto 0;
     display: flex;
     align-items: center;
  }
