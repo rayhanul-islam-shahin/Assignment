@@ -182,8 +182,18 @@ p.logo{
 /* USER REVIEW SECTION ***END***/
 
 
-/* mAIN SECTION ***START***/
+/* MAIN SECTION ***START***/
 
  main .main-title{
     text-align: center;
+    width: 70%;
+     margin: auto;
+     background-color: white;
+     padding: 50px 0;
+     border-radius: 10px;
+ }
+
+ main .main-title img{
+    width: 50%;
+    border-radius: 20px;
  }
